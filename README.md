@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16405
-Fork on GitHub
-4572
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 🙌🏻, I'm Firstyara Putri</h1>
 <h3 align="center">⌯✧ ₊˚ an ordinary girl who likes to learn something new ﹆ • ♡</h3>
 
