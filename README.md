@@ -9,7 +9,7 @@
 
 - 💐 I’m currently learning **Javascript**
 
-- 💌 Know me more on **bit.ly//firstyaraputri**
+- 💌 Know me more on **https://biolinky.co/firstyaraputri**
 
 - 🧝🏻‍♀️ Fun facts **i luv penguin , milo , anime , and you ofc /jk**
 
