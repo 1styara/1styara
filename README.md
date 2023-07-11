@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firstyaraputri&label=Profile%20views&color=0e75b6&style=flat" alt="firstyaraputri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firstyaraputri" alt="firstyaraputri" /></a> </p>
-
 - 🔭 I’m currently working on **Sigma Cipta Caraka**
 
 - 📫 How to reach me **firstyaraputri@gmail.com**
