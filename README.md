@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firstyaraputri&label=Profile%20views&color=0e75b6&style=flat" alt="firstyaraputri" /> </p>
 
-- 🔭 I’m currently working on **Sigma Cipta Caraka**
+- 🔭 I’m currently working on **SMK Telkom Malang**
 
 - 📫 How to reach me **firstyaraputri@gmail.com**
 
